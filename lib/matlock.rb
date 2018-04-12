@@ -1,7 +1,7 @@
 require 'matlock/data'
 require 'matlock/version'
 
-require 'active_support/inflector'
+require 'activesupport/inflector'
 require 'matlock/ext/string'
 
 class Matlock
